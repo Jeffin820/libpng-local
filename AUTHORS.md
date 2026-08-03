@@ -7,6 +7,7 @@ Authors, for copyright and licensing purposes.
  * Adam Richter
  * Alexander Smorkalov
  * Andreas Dilger
+ * Anthony Hurtado
  * Chris Blume
  * Cosmin Truta
  * Daisuke Nishikawa
@@ -29,6 +30,7 @@ Authors, for copyright and licensing purposes.
  * Mans Rullgard
  * Matt Sarett
  * Mike Klein
+ * Mohammad Seet
  * Pascal Massimino
  * Paul Schmidt
  * Petr Simecek
